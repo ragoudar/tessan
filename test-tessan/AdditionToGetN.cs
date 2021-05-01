@@ -49,13 +49,7 @@ namespace test_tessan
                         Console.WriteLine("First match :({0}, {1})", k, subFilter[j]);
                         return true;
                     }
-                }
-                // foreach(int sub in subFilter) {
-                //     if((k + sub) == _target) {
-                //         Console.WriteLine("First match :({0}, {1})", k, sub);
-                //         return true;
-                //     }
-                // }
+                }              
             }
 
             return false;
