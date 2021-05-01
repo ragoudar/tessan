@@ -1,0 +1,16 @@
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.exe
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.deps.json
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.runtimeconfig.json
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.runtimeconfig.dev.json
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.dll
+C:\projects\test1-tessan\bin\Debug\net5.0\ref\test1-tessan.dll
+C:\projects\test1-tessan\bin\Debug\net5.0\test1-tessan.pdb
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.csprojAssemblyReference.cache
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.AssemblyInfoInputs.cache
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.AssemblyInfo.cs
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.csproj.CoreCompileInputs.cache
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.dll
+C:\projects\test1-tessan\obj\Debug\net5.0\ref\test1-tessan.dll
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.pdb
+C:\projects\test1-tessan\obj\Debug\net5.0\test1-tessan.genruntimeconfig.cache
